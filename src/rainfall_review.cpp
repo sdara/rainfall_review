@@ -1,5 +1,5 @@
 /*
-Programmer		:	Seth Dara
+Programmer		:	sdara
 Program No.		:	1
 Date Written	:	09/07/04
 Date Revised	:	09/07/04
